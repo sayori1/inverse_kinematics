@@ -1,1 +1,3 @@
-Simple realization of inverse kinematics for a two points manipulator.
+Two realizations of IK:
+1) Simple for a two point manipulator
+2) For a multipoint manipulator
